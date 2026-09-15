@@ -1,8 +1,10 @@
 09.15.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: maryann.hall98@yahoo.com, sillini47@aol.com
-At: 2026-09-15 22:08:35
-Id: Zop7KlqW
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: brighteye35@yahoo.com, jljacobson@comcast.net
+At: 2026-09-15 22:09:14
+Id: PldY8x9b
